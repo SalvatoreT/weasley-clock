@@ -1,4 +1,4 @@
-# weasley-clock
+# Weasley Clock [![Build Status](https://travis-ci.org/SalvatoreT/weasley-clock.svg?branch=master)](https://travis-ci.org/SalvatoreT/weasley-clock)
 See who's home on your Raspberry Pi or any small screen
 
 ## Install
