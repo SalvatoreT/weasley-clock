@@ -63,3 +63,6 @@ target/
 
 # Virtual environment files
 venv/
+
+# Database files
+*.db
