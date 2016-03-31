@@ -19,3 +19,10 @@ pip install -r requirements.txt # pull in the requirements
 python weasley_clock.py
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
+
+## Development
+Before you commit code, make everything adheres to the PEP 8 style guide.
+
+```bash
+autopep8 $(git ls-files | grep .py) --in-place -a -a
+```
