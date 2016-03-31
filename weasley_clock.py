@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from flask import Flask
 from pynetgear import Netgear
 import json
