@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface>
+  <object class="ttk.Frame" id="horizontal_container">
+    <property name="height">600</property>
+    <property name="width">800</property>
+    <layout>
+      <property name="column">0</property>
+      <property name="propagate">True</property>
+      <property name="row">1</property>
+    </layout>
+  </object>
+</interface>
